@@ -1,0 +1,13 @@
+name: "x-change Financial Planning"
+slug: "x-change-financial-planning"
+status: "active"
+owner:
+  name: "3neti Research & Development OPC"
+purpose: "Develop the canonical financial planning framework for the x-change ecosystem, including institution adoption, proof-of-execution funding, bridge revenue, incubation, sustainability, and acceleration."
+source:
+  overview: "resources/knowledge/x-change-financial-planning/source/overview.md"
+working:
+  institution_adoption_model: "resources/knowledge/x-change-financial-planning/working/institution-adoption-model.md"
+  scenario_framework: "resources/knowledge/x-change-financial-planning/working/scenario-framework.md"
+  bridge_revenue_model: "resources/knowledge/x-change-financial-planning/working/bridge-revenue-model.md"
+  assumptions_register: "resources/knowledge/x-change-financial-planning/working/assumptions-register.md"
