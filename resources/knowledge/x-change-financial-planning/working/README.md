@@ -1,5 +1,7 @@
 # Working Artifacts
 
-This directory holds interpreted, transformed, analytical, and in-progress artifacts.
+This directory holds the canonical strategy sequence for the x-change Financial Planning knowledge system.
 
-Use this directory for strategy drafts, financial planning frameworks, scenario narratives, assumptions registers, and operating model documents.
+The numbered files move from vision to adoption, economics, execution, incubation, operating planning, financial modeling, capital strategy, scenarios, assumptions, risk, sensitivity, and investor narrative.
+
+Use these files for interpreted, transformed, analytical, and in-progress artifacts.

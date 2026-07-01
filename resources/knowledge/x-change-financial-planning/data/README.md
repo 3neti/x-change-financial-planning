@@ -1,5 +1,5 @@
-# Data Inputs
+# Evidence Layer
 
-This directory holds structured source inputs such as CSV, YAML, JSON, or other tabular data used for financial planning.
+This directory holds evidence-backed source material for the x-change Financial Planning knowledge system.
 
-Generated spreadsheets and exports do not belong here.
+The subdirectories separate evidence by topic so future assumptions can be traced to a stable source location.
