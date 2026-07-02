@@ -44,3 +44,13 @@ Exploratory.
 The proposal is not yet finalized.
 
 The investor relationship, repayment/recovery structure, pilot economics, IFX validation, and budget still require further development.
+
+## Expanded Scope
+
+This engagement now also preserves:
+
+- investor context
+- founder stewardship
+- founder story
+- AI-assisted execution philosophy
+- legacy and movement framing

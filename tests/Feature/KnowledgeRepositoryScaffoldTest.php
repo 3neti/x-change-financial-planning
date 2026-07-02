@@ -31,6 +31,11 @@ test('knowledge governance and domain files exist', function () {
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/00-engagement-overview.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/04-cash-continuity-use-case.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/06-open-questions.md')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/07-claire-context.md')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/09-founder-stewardship.md')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/10-founder-story.md')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/11-ai-as-thinking-partner.md')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/13-execution-memorandum-outline.md')))->toBeTrue();
 });
 
 test('knowledge metadata contains the founding execution partner engagement', function () {
