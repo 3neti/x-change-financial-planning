@@ -7,7 +7,19 @@ purpose: "Develop the canonical financial planning framework for the x-change ec
 source:
   overview: "resources/knowledge/x-change-financial-planning/source/overview.md"
 working:
-  institution_adoption_model: "resources/knowledge/x-change-financial-planning/working/institution-adoption-model.md"
-  scenario_framework: "resources/knowledge/x-change-financial-planning/working/scenario-framework.md"
-  bridge_revenue_model: "resources/knowledge/x-change-financial-planning/working/bridge-revenue-model.md"
-  assumptions_register: "resources/knowledge/x-change-financial-planning/working/assumptions-register.md"
+  vision: "resources/knowledge/x-change-financial-planning/working/00-vision.md"
+  institution_adoption_model: "resources/knowledge/x-change-financial-planning/working/01-institution-adoption-model.md"
+  program_economics: "resources/knowledge/x-change-financial-planning/working/02-program-economics.md"
+  bridge_revenue: "resources/knowledge/x-change-financial-planning/working/03-bridge-revenue.md"
+  proof_of_execution: "resources/knowledge/x-change-financial-planning/working/04-proof-of-execution.md"
+  incubation_model: "resources/knowledge/x-change-financial-planning/working/05-incubation-model.md"
+  operating_plan: "resources/knowledge/x-change-financial-planning/working/06-operating-plan.md"
+  financial_model: "resources/knowledge/x-change-financial-planning/working/07-financial-model.md"
+  capital_strategy: "resources/knowledge/x-change-financial-planning/working/08-capital-strategy.md"
+  scenario_framework: "resources/knowledge/x-change-financial-planning/working/09-scenario-framework.md"
+  assumptions_register: "resources/knowledge/x-change-financial-planning/working/10-assumptions-register.md"
+  risk_register: "resources/knowledge/x-change-financial-planning/working/11-risk-register.md"
+  sensitivity_analysis: "resources/knowledge/x-change-financial-planning/working/12-sensitivity-analysis.md"
+  investor_narrative: "resources/knowledge/x-change-financial-planning/working/13-investor-narrative.md"
+engagements:
+  founding_execution_partner_2026: "resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026"

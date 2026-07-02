@@ -5,3 +5,8 @@ Strategic Capital is capital aligned with long-horizon institutional positioning
 It exists to support the strategy beyond short-term delivery and beyond simple growth acceleration.
 
 It helps distinguish durable platform building from tactical funding needs.
+
+## Used By
+
+- 08-capital-strategy.md
+- 13-investor-narrative.md
