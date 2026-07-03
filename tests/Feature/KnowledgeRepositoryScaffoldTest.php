@@ -6,6 +6,7 @@ test('knowledge governance and domain files exist', function () {
     expect(is_file(base_path('docs/governance/decisions/0007-use-evidence-backed-assumptions.md')))->toBeTrue();
     expect(is_file(base_path('docs/governance/decisions/0008-generated-artifacts-are-compiled-from-knowledge.md')))->toBeTrue();
     expect(is_file(base_path('docs/governance/decisions/0009-use-engagement-workspaces-for-stakeholder-specific-strategy.md')))->toBeTrue();
+    expect(is_file(base_path('docs/governance/decisions/0010-editorial-manuscripts-precede-repository-persistence.md')))->toBeTrue();
     expect(is_file(base_path('docs/governance/future-knowledge-commands.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/README.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/concepts/README.md')))->toBeTrue();
@@ -36,6 +37,8 @@ test('knowledge governance and domain files exist', function () {
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/10-founder-story.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/11-ai-as-thinking-partner.md')))->toBeTrue();
     expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/working/13-execution-memorandum-outline.md')))->toBeTrue();
+    expect(is_dir(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/editorial')))->toBeTrue();
+    expect(is_file(base_path('resources/knowledge/x-change-financial-planning/engagements/founding-execution-partner-2026/editorial/execution-memorandum.md')))->toBeTrue();
 });
 
 test('knowledge metadata contains the founding execution partner engagement', function () {

@@ -54,3 +54,11 @@ This engagement now also preserves:
 - founder story
 - AI-assisted execution philosophy
 - legacy and movement framing
+
+## Editorial Manuscript
+
+This engagement now also contains an editorial manuscript.
+
+The editorial manuscript is the authoritative composition source.
+
+Repository working documents derive from the editorial manuscript rather than the reverse.
