@@ -1,0 +1,96 @@
+@page {
+    size: A4;
+    margin: 22mm 24mm 22mm 24mm;
+}
+
+:root {
+    --publication-text: #1f2933;
+    --publication-muted: #5b6670;
+    --publication-rule: #dde5ee;
+}
+
+body {
+    margin: 0;
+    font-family: "DejaVu Serif", Georgia, "Times New Roman", serif;
+    font-size: 10.6pt;
+    line-height: 1.43;
+    color: var(--publication-text);
+    background: #ffffff;
+}
+
+.publication-shell {
+    max-width: none;
+    margin: 0;
+}
+
+.cover-page {
+    min-height: calc(297mm - 44mm);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    page-break-after: always;
+}
+
+.cover-page__inner {
+    width: 100%;
+    text-align: center;
+}
+
+.cover-page__title {
+    page-break-before: auto;
+    margin: 0 0 10mm;
+    font-family: "DejaVu Serif", Georgia, "Times New Roman", serif;
+    font-size: 25pt;
+    font-weight: 400;
+    line-height: 1.1;
+}
+
+.cover-page__subject {
+    margin: 0 0 18mm;
+    font-size: 12.3pt;
+    color: var(--publication-muted);
+}
+
+.cover-page__meta p {
+    margin: 0 0 0.35em;
+}
+
+.cover-page__year {
+    margin: 12mm 0 0;
+}
+
+.manuscript h1 {
+    page-break-before: always;
+    font-family: "DejaVu Serif", Georgia, "Times New Roman", serif;
+    font-size: 21pt;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.12;
+    margin-top: 9mm;
+    margin-bottom: 16mm;
+}
+
+.manuscript > h1:first-child {
+    page-break-before: auto;
+    margin-top: 0;
+}
+
+.manuscript p {
+    margin: 0 0 0.72em;
+}
+
+.manuscript hr {
+    border: 0;
+    border-top: 1px solid var(--publication-rule);
+    margin: 1.2em 0 1.05em;
+}
+
+.manuscript strong {
+    font-weight: 700;
+}
+
+@media print {
+    .publication-shell {
+        max-width: none;
+    }
+}
