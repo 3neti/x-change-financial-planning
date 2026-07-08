@@ -790,11 +790,11 @@ Most importantly, they create space.
 
 While attention remains on the larger institutions, we quietly prove ourselves where operational pain is immediate and decisions can be made quickly. When the time is right, those two paths meet again.
 
-Claire keeps reminding us that technology is never the story.
+One of the most valuable reminders you have given me is that technology is never the story.
 
 People are.
 
-Whenever the conversation becomes too technical, she quietly brings it back to freedom, choice, and the everyday experience of the recipient. That perspective has already made the platform better. I have every reason to believe it will continue doing so.
+Whenever our conversations become too technical, you quietly bring them back to freedom, choice, and the everyday experience of the recipient. That perspective has already made the platform better. I have every reason to believe it will continue doing so.
 
 Obbie continues doing what he has always done naturally.
 
